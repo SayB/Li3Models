@@ -26,8 +26,9 @@ to downloand the Lithium framework as a submodule.
 
 After this, edit Li3Models/config/connections.php and add your connection detail as you would for any Lithium project, as says in the guide here:
 
-	http://lithify.me/docs/manual/working-with-data/using-data-sources.wiki
-	http://lithify.me/docs/lithium/data/Connections::add()
+	[The Manual](http://lithify.me/docs/manual/working-with-data/using-data-sources.wiki)
+	[The Method](http://lithify.me/docs/lithium/data/Connections::add())
+
 
 Once you are done setting up the connection, you can start writing models for your project in the directory:
 
